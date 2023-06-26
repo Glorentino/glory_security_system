@@ -1,0 +1,10 @@
+ref1.jpg detected at 2023-06-19 16:58:14.500368 
+ref1.jpg detected at 2023-06-19 16:58:16.354417 
+ref.jpg detected at 2023-06-19 16:58:17.490751 
+ref1.jpg detected at 2023-06-19 16:58:20.343744 
+ref1.jpg detected at 2023-06-19 16:58:24.126736 
+ref.jpg detected at 2023-06-19 16:58:24.929791 
+ref.jpg detected at 2023-06-19 17:17:12.966655 
+ref.jpg detected at 2023-06-19 17:17:14.605439 
+ref.jpg detected at 2023-06-19 17:17:15.209566 
+ref.jpg detected at 2023-06-19 17:17:18.210727 
